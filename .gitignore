@@ -1,0 +1,9 @@
+### IntelliJ IDEA ###
+# IntelliJ specific files/directories
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
